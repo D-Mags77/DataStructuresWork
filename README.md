@@ -1,0 +1,6 @@
+Above are my attempts to demonstrate everything I know with relations to programming assignment 1. The first problem mentions to implement 2 short simple recursive processes. The two that I decided to use are the fibonnaci sequence and a simply function y=x^2+7. 
+The reason as to why both of these are recursive is because they both call themselves within their own definition. The fibonnaci sequence needs the previous two number and the function needs the previous values of x to calculate the next.
+The second problem speaks about implmeneting an object based program where you have a class with three simple data types then you sort these data types and print them out in their sorted format.
+I decided to use the class students which has 3 simple data types. Name grade and school. I then use bubble sort to sort the grades from highest to lowest and then print out this sorted list
+For the last problem, we are to use three separate methods to demonstrate the use of pass by value pass by reference and pass by pointers. 
+For this I decided to create a very simple program which takes a value and manipulates it using all three of the pass by operations. I then point out the original value and then what it changed into in order to demonstrate the differences between all three.
